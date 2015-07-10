@@ -3,6 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+/**
+ * All lines should print the thread id and the current iteration they are on.
+ * All lines with the same thread id should be printed in the same color. 
+ * /
+
+
+
 namespace PlayingWithThreadpool
 {
     class Program
